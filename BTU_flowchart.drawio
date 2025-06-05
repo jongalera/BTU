@@ -12,7 +12,7 @@
         <mxCell id="2" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Process 1&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Explotacion BTU&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;ID_TIPO&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
           <mxGeometry x="35" y="111" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Geodatabase &#xa;Actualizada" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
+        <mxCell id="3" value="Geodatabase &#xa;Actualizada&#xa;Mikel" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
           <mxGeometry x="45" y="241" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5" value="BTU (geodatabase)  feature_dataset: BTU&#xa;docs. \\pmpwfs2\data\2_PROYECTOS_5051\1432_GemelosDigitales\ESRI\Datos\DOCUMENTACION\BTU&#xa;app.  \\pmpwfs2\data\2_PROYECTOS_5051\1432_GemelosDigitales\ESRI\Procesos\Python_BTU" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" parent="1" vertex="1">
