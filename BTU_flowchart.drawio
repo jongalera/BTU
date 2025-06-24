@@ -1,70 +1,98 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1186" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k3KtwQCaRDusOtYjJtE7-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="110" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="2" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Process 1&amp;nbsp;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Explotacion BTU&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;ID_TIPO&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Mobiliario Pol a Pun&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
+          <mxGeometry x="70" y="140" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="2" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Process 1 Mikel&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Explotacion BTU&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;ID_TIPO&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Mobiliario Pol a Pun&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="70" y="100" width="140" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="5" value="BTU (geodatabase)  feature_dataset: BTU&#xa;docs. \\pmpwfs2\data\2_PROYECTOS_5051\1432_GemelosDigitales\ESRI\Datos\DOCUMENTACION\BTU&#xa;app.  \\pmpwfs2\data\2_PROYECTOS_5051\1432_GemelosDigitales\ESRI\Procesos\Python_BTU" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" parent="1" vertex="1">
+        <mxCell id="5" value="BTU (geodatabase)  feature_dataset: BTU&#xa;docs. \\pmpwfs2\data\2_PROYECTOS_5051\1432_GemelosDigitales\ESRI\Datos\DOCUMENTACION\BTU&#xa;app.  \\pmpwfs2\data\2_PROYECTOS_5051\1432_GemelosDigitales\ESRI\Procesos\Python_BTU&#xa;MDT. \\pmpwfs2\data\2_PROYECTOS_5051\1432_GemelosDigitales\ESRI\Datos\SHP\CartoBTU\IN\MDT&#xa;Piloto: \\pmpwfs2\data\2_PROYECTOS_5051\1432_GemelosDigitales\ESRI\Datos\SHP\CartoBTU\IN\Piloto_Definitvo" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" parent="1" vertex="1">
           <mxGeometry x="13" y="10" width="947" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt;&amp;nbsp;2&amp;nbsp;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;LYRX&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;APRX&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;(revisar nuevas simbologias)&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="70" y="261" width="190" height="90" as="geometry" />
+          <mxGeometry x="70" y="301" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="10" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt;&amp;nbsp;4&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Publicacion Capas&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="179.99999999999991" y="495" width="110" height="90" as="geometry" />
+          <mxGeometry x="179.99999999999991" y="535" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="37" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="124.5" y="190" as="sourcePoint" />
-            <mxPoint x="124.5" y="260" as="targetPoint" />
+            <mxPoint x="124.5" y="230" as="sourcePoint" />
+            <mxPoint x="124.5" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="11" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt;&amp;nbsp;3&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;MDT y mapa base&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="29.999999999999943" y="405" width="110" height="90" as="geometry" />
+          <mxGeometry x="29.999999999999943" y="445" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="85" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.389;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8" target="10" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="294.25" y="580" as="sourcePoint" />
-            <mxPoint x="190" y="440" as="targetPoint" />
+            <mxPoint x="294.25" y="620" as="sourcePoint" />
+            <mxPoint x="190" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="170" y="390" />
+              <mxPoint x="170" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="90" value="Updated  GDB" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
-          <mxGeometry x="150" y="216" width="30" height="20" as="geometry" />
+          <mxGeometry x="150" y="256" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="95" value="Geometrias" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
-          <mxGeometry x="199.99999999999994" y="461.0000000000002" width="30" height="20" as="geometry" />
+          <mxGeometry x="199.99999999999994" y="501.0000000000002" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="96" value="LandCover" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
-          <mxGeometry x="119.99999999999977" y="361" width="30" height="20" as="geometry" />
+          <mxGeometry x="119.99999999999977" y="401" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1nZLF7gvG_RcYIqmaONn-116" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8" target="11">
+        <mxCell id="1nZLF7gvG_RcYIqmaONn-116" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8" target="11" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="160" y="390" as="sourcePoint" />
-            <mxPoint x="185" y="479" as="targetPoint" />
+            <mxPoint x="160" y="430" as="sourcePoint" />
+            <mxPoint x="185" y="519" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="170" y="380" />
+              <mxPoint x="170" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1nZLF7gvG_RcYIqmaONn-120" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Mikel&lt;/h1&gt;&lt;p&gt;exportación nombre y cadlayer&lt;/p&gt;&lt;p&gt;mobiliario urbano pol pasar a pun&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="100" width="180" height="120" as="geometry" />
+        <mxCell id="1nZLF7gvG_RcYIqmaONn-120" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Mikel&lt;/h1&gt;&lt;p&gt;exportación nombre y cadlayer&lt;/p&gt;&lt;p&gt;mobiliario urbano pol pasar a pun&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="140" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1nZLF7gvG_RcYIqmaONn-121" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Iñigo&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;nuevos elementos de mobiliaro urbano pol a pun con sus longitudes&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;mobiliario urbano pol pasar a pun&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;Etiquetado numero de portal (Accesos del campo Nombre&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;Visualizacion por escala ver cuando empieza a pintar puntuales&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;Ver si en la publicacion se hace&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="481" width="350" height="120" as="geometry" />
+        <mxCell id="1nZLF7gvG_RcYIqmaONn-121" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Iñigo&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;nuevos elementos de mobiliaro urbano pol a pun con sus longitudes&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;mobiliario urbano pol pasar a pun&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;Etiquetado numero de portal (Accesos del campo Nombre&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;Visualizacion por escala ver cuando empieza a pintar puntuales&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;Ver si en la publicacion se hace&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="521" width="350" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1nZLF7gvG_RcYIqmaONn-122" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Juan&lt;/h1&gt;&lt;p&gt;mapa base y MDT ortometricas&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="351" width="180" height="120" as="geometry" />
+        <mxCell id="1nZLF7gvG_RcYIqmaONn-122" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Juan&lt;/h1&gt;&lt;p&gt;mapa base y MDT ortometricas&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="391" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XFVFcDnStncOzTqPMVRt-96" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=0.134;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="2">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="130" y="300" as="sourcePoint" />
+            <mxPoint x="130" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XFVFcDnStncOzTqPMVRt-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XFVFcDnStncOzTqPMVRt-97" target="XFVFcDnStncOzTqPMVRt-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFVFcDnStncOzTqPMVRt-97" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Process 1 Juan&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Creacion Aprx&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="810" y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XFVFcDnStncOzTqPMVRt-99" value="&lt;b&gt;separado&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XFVFcDnStncOzTqPMVRt-101" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=0.93;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="910" y="110" as="sourcePoint" />
+            <mxPoint x="894" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XFVFcDnStncOzTqPMVRt-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XFVFcDnStncOzTqPMVRt-97" target="XFVFcDnStncOzTqPMVRt-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFVFcDnStncOzTqPMVRt-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XFVFcDnStncOzTqPMVRt-97" target="XFVFcDnStncOzTqPMVRt-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFVFcDnStncOzTqPMVRt-104" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Process 2&amp;nbsp;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Simbolizacion por Cadlayer&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Generar lyrx&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="690" y="210" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XFVFcDnStncOzTqPMVRt-106" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Iñigo&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;elementos puntuales&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="190" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
